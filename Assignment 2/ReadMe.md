@@ -1,4 +1,4 @@
-# COMP3004 Assignment 2
+# COMP3004 Assignment 2 🛗
 ### Author: Dulika Gamage 101263208
 
 ### Files Included:
